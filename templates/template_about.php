@@ -1,0 +1,6 @@
+   <article>
+      <p>In an effort to play good and interesting music, balancing “simplicity” and “art”, Matthew Dakoutros and Nick Miras formed art of simplicity during 2003. Merging several styles and different kinds of music, in a metal canvas, aos have received much appreciation from around the world and have been established as a very promising act.</p>
+      <p>Art of simplicity derive influences from a vast variety of innovative genres and music groups. Most influences are from progressive rock/metal, post rock/metal, ambient, gothic, contemporary music, and other genres. However this does not stop in music. Important influences are considered any and all forms of art, any artist that has helped aos voice their stands. Always in an experimental spirit, the band is always willing to dispute their beliefs and try something new.</p>
+      <p>Their demo release <a href="<?php echo ROOT_URL.'index.php?page=asymetric' ?>">“Asymmetric”</a> was awarded “Demo of the Month” in various magazines and their debut album <a href="<?php echo ROOT_URL.'index.php?page=caught' ?>">“Caught in this Iless stom”</a> got a lot of attention from around the world.</p>
+      <p>After a lot of trials and tribulations, aos released “When fables have a bitter taste” EP in 2013, hoping to impress and intrigue the audience, make them craving for more.</p>       
+  </article>
